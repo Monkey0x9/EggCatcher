@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/monkey0x9/EggCatcher.png)](http://travis-ci.org/monkey0x9/EggCatcher)
+[![Build Status](https://secure.travis-ci.org/Monkey0x9/EggCatcher.png)](http://travis-ci.org/Monkey0x9/EggCatcher)
 #EggCatcher
 
 This plugin allows the players to get spawn eggs by throwing regular eggs at mobs. It is intended to be simple to set up and use. If you make any changes, pull requests are appreciated.
